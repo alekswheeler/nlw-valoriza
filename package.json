@@ -1,0 +1,11 @@
+{
+  "name": "nlw-valoriza",
+  "version": "1.0.0",
+  "description": "Aplicação nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alekswheeler",
+  "license": "MIT"
+}
