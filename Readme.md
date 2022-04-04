@@ -5,14 +5,14 @@
 
 - **Cadastro de usuário**
 
-    [ ] Não é permitido cadastrar mais de um usuário com o mesmo email
-    [ ] Não é permitido cadastrar usuário sem email
+    [ X ] Não é permitido cadastrar mais de um usuário com o mesmo email
+    [ X ] Não é permitido cadastrar usuário sem email
 
 - **Cadastro de tags**
 
-    [ ] Não é perimitido cadastrar mais de uma tag com o mesmo nome
-    [ ] Não é permitido cadastrar tag sem nome
-    [ ] Não é permito o cadastro por usuário que não sejam ams
+    [ X ] Não é perimitido cadastrar mais de uma tag com o mesmo nome
+    [ X ] Não é permitido cadastrar tag sem nome
+    [ X ] Não é permito o cadastro por usuário que não sejam adm
 
 - **Cadastro de elogios**
 

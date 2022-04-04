@@ -31,6 +31,8 @@ class CreateUserService {
         });
 
         usersRepository.save(user);
+
+        return user;
     }
 
 }
